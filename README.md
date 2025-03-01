@@ -7,7 +7,7 @@ This repository contains the files required to deploy a Google Cloud Platform (G
 - **deploy.sh**  
   A Bash script that uses the Google Cloud SDK to create a VM instance with a startup script to install Apache.
   
-- **architecture.png** (or **diagram.png/jpg**)  
+- **architecture design** 
   An exported diagram that illustrates the architecture including:
   - External Traffic
   - Firewall Rules
